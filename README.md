@@ -1,5 +1,5 @@
 # Testing-practice
-This is a repo that consists of some practical JavaScript solution together with their own test case which is built using the Jest library. Each of the test files are done by following the AAA patern and using the TDD approach.
+This is a repo that consists of some practical JavaScript solution together with their own test case which is built using the Jest library. Each of the test files are done by following the AAA pattern and using the TDD approach.
  # Built With
    - JavaScript 
    - Jest
